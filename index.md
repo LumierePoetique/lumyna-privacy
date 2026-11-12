@@ -1,10 +1,10 @@
-# Politique de confidentialité — Lumyna
+# Politique de confidentialité — Psychylia
 
 **Dernière mise à jour : 21 septembre 2026**
 
 ## 1. Introduction
 
-Lumyna est une application de compagnonnage émotionnel par intelligence artificielle. Cette politique explique quelles données nous collectons, comment nous les utilisons, et tes droits sur ces données.
+Psychylia est une application de compagnonnage émotionnel par intelligence artificielle. Cette politique explique quelles données nous collectons, comment nous les utilisons, et tes droits sur ces données.
 
 ## 2. Données collectées
 
@@ -14,7 +14,7 @@ Lumyna est une application de compagnonnage émotionnel par intelligence artific
 - Genre (homme / femme / autre)
 - Réponses aux quiz de personnalité
 - Messages échangés avec tes compagnons
-- Profil public (si tu utilises l'espace Mirayo)
+- Profil public (si tu utilises l'espace Scutalya)
 
 ### 2.2 Données collectées automatiquement
 - **Localisation approximative** (uniquement si tu l'autorises) : utilisée pour adapter la météo et le contexte du compagnon.
@@ -59,12 +59,13 @@ Tu peux à tout moment :
 
 ## 7. Enfants
 
-Lumyna n'est pas destinée aux enfants de moins de 13 ans.
+Psychylia n'est pas destinée aux enfants de moins de 13 ans.
 
 ## 8. Contact
 
-Pour toute question : contact@lumyna-app.com
+Pour toute question : contact@Psychylia-app.com
 
 ## 9. Modifications
 
 Cette politique peut être mise à jour. Les changements seront notifiés dans l'application.
+
